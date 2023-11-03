@@ -1,4 +1,4 @@
-# jasmine-shanay.github.io
+#Jasmine's Portfolio
 Hello! 
 Resume (current as of November 2023)
 https://jasmine-shanay.github.io/Resume_JM_20231102.pdf
