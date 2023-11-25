@@ -1,4 +1,3 @@
-## Hello! 
 ### Summary of background and experiences
 [Resume (current as of November 2023)](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbebc2c8-0b38-31f2-984f-4ad8fb4ccb29)
 
