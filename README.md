@@ -19,7 +19,7 @@ Note: I received a student travel award for the ASV 2020 Conference, but the con
 
 ### Original Articles
 
-The following links are to old pieces that I wrote for my university newspaper. 
+The following links are to old pieces that I wrote for my university newspaper. They are all archived because my university rebranded.
 
 [In a While, “Krokodil” (Posted October 24, 2013)](https://web.archive.org/web/20140911194400/http:/www.panthernewsnetwork.com/top-stories/2013/10/24/in-a-while-krokodil/)
 
