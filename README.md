@@ -26,3 +26,7 @@ The following links are to old pieces that I wrote for my university newspaper. 
 [Snowflakes: Their Formation and Individuality (Posted March 7, 2014)](https://web.archive.org/web/20140715174440/http:/www.panthernewsnetwork.com/top-stories/2014/03/07/snowflakes-their-formation-and-individuality/)
 
 [The Greatest Threat (Posted October 7, 2014)](https://web.archive.org/web/20141012112707/http:/www.panthernewsnetwork.com/top-stories/2014/10/07/the-greatest-threat/)
+
+### Contact Information
+[LinkedIn](https://www.linkedin.com/in/jasminemoore1/)
+[Email](mailto:jasminemoorewriting@gmail.com)
