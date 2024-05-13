@@ -6,4 +6,3 @@ Hi, my name is Jasmine Moore. I am a medical writer with 10+ years of experience
 
 [Data Analysis Projects](https://jasmine-shanay.github.io/jasminemoore/data/)
 
-### [Contact Information](https://jasmine-shanay.github.io/jasminemoore/contact/)
