@@ -20,4 +20,4 @@ General overview of my professional portfolio:
 ***
 
 - Curriculum Vitae
-- Certificates
+- [Certificates](https://jasmine-shanay.github.io/jasminemoore/certificates/)
