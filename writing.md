@@ -4,12 +4,12 @@ title: Writing Samples
 permalink: /writing/
 ---
 
-### Updated Articles
+## Updated Articles
 
 [Snowflakes: Their Formation and Individuality (PNN Article)](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:71ae02af-358b-36be-ae5b-700268bbb55e)
 *  An edited version of an article I wrote for my university newspaper, the Panther News Network.
 
-### Abstracts and Proposals
+## Abstracts and Proposals
 
 [ASV 2020 Abstract](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:2e516f86-7780-3547-a654-dec4d9d2f6cd)
 *  An abstract that I wrote for a poster presentation at the American Society for Virology. 
@@ -19,7 +19,7 @@ Note: I received a student travel award for the ASV 2020 Conference, but the con
 *  A grant I submitted to fund a medical writing certificate offered by the American Medical Writers Association (AMWA).
 *  Was awarded the grant and subsequently completed the AMWA certificate program. 
 
-### University Articles
+## University Articles
 
 The following links are to pieces that I wrote for my university newspaper. My alma mater rebranded and the site was archived.
 
