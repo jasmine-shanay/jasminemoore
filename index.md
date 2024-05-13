@@ -1,4 +1,4 @@
-General overview of my professional portfolio:
+## General Overview
 
 - [Writing Samples](https://jasmine-shanay.github.io/jasminemoore/writing/)
   - Current Work
@@ -15,6 +15,5 @@ General overview of my professional portfolio:
 ***
 
 - Curriculum Vitae
-
 - [Certificates](https://jasmine-shanay.github.io/jasminemoore/certificates/)
 
