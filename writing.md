@@ -6,14 +6,18 @@ permalink: /writing/
 
 Here are some pieces that I have written over the years.
 
+### Updated Articles
+
 [Snowflakes: Their Formation and Individuality (PNN Article)](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:71ae02af-358b-36be-ae5b-700268bbb55e)
 
 An edited version of an article I wrote for my university newspaper, the Panther News Network.
 
+### Abstracts and Proposals
+
 [ASV 2020 Abstract](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:2e516f86-7780-3547-a654-dec4d9d2f6cd)
 
 An abstract that I wrote for a poster presentation at the American Society for Virology. 
-Note: I received a student travel award for the ASV 2020 Conference, but the conference was cancelled.
+Note: I received a student travel award for the ASV 2020 Conference, but the conference was canceled.
 
 ### Original Articles
 
