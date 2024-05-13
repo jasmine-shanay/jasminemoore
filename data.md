@@ -4,15 +4,6 @@ title: Data Analysis
 permalink: /data/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Data Science for All Project](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1) 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This is a report that I wrote as the final deliverable in my Data Science for All certificate program. I received an honors certificate upon the program's completion.
