@@ -1,6 +1,6 @@
 title: Jasmine Moore's Portfolio
-author: Jasmine Moore
-  name: GitHub User
+author:
+  name: Jasmine Moore
   email: jasminemoorewriting@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
