@@ -4,7 +4,7 @@ title: Writing Samples
 permalink: /writing/
 ---
 
-## Updated Articles
+## Current Work
 
 [Snowflakes: Their Formation and Individuality (PNN Article)](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:71ae02af-358b-36be-ae5b-700268bbb55e)
 *  An edited version of an article I wrote for my university newspaper, the Panther News Network.
