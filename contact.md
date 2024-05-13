@@ -5,8 +5,11 @@ permalink: /contact/
 ---
 
 
-[Email](mailto:jasminemoorewriting@gmail.com):
-jasminemoorewriting@gmail.com
+Email:
 
-[LinkedIn](https://www.linkedin.com/in/jasminemoore1/):
-https://www.linkedin.com/in/jasminemoore1/
+[jasminemoorewriting@gmail.com](mailto:jasminemoorewriting@gmail.com)
+
+
+LinkedIn:
+
+[https://www.linkedin.com/in/jasminemoore1/](https://www.linkedin.com/in/jasminemoore1/)
