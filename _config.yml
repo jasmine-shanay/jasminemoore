@@ -1,7 +1,6 @@
-title: Jasmine Moore's Portfolio
-author:
-  name: Jasmine Moore
-  email: jasminemoorewriting@gmail.com
+title: Moore's Portfolio
+author: Jasmine Moore
+email: jasminemoorewriting@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
