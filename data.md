@@ -12,9 +12,11 @@ permalink: /data/
 
 # Data Science Programs
 
-Analyzing and Visualizing Data in Looker | Google Cloud Training | [Link]()
-Analyze Survey Data with Tableau | Coursera | [Link]()
-COVID-19 Data Analysis Using Python | Coursera | [Link]() 
-Create a Sales Dashboard Using Power BI | Coursera | [Link]()  
-Machine Learning for Kyphosis Disease Classification | Coursera | [Link]() 
-Manipulating Data with SQL | Coursera | [Link]() 
+| Course Name | Company | Link |
+|:-------|:--------|:-----|
+| Analyzing and Visualizing Data in `Looker` | Google Cloud Training | [Link]()
+| Analyze Survey Data with `Tableau` | Coursera | [Link]()
+| COVID-19 Data Analysis Using `Python` | Coursera | [Link]() 
+| Create a Sales Dashboard Using `Power BI` | Coursera | [Link]()  
+| `Machine Learning` for Kyphosis Disease Classification | Coursera | [Link]() 
+| Manipulating Data with `SQL` | Coursera | [Link]() 
