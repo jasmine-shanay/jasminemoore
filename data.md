@@ -4,7 +4,7 @@ title: Data Projects
 permalink: /data/
 ---
 
-# Data Science Fellowship
+# Fellowship
 
 [Data Science for All Project](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bbc3e7a2-3153-31e0-aa51-414ec5bf3fc1) 
 
