@@ -18,11 +18,11 @@ Hi, my name is Jasmine Moore. I am a medical writer with 10+ years of experience
 - [Data Analysis/Visualization Projects](https://jasmine-shanay.github.io/jasminemoore/data/)
   - DS4A Honors Fellowship
   - Data Science Courses
-    - Analyzing and Visualizing Data in Looker | Google Cloud Training
-    - Analyze Survey Data with Tableau
-    - COVID-19 Data Analysis Using Python
-    - Create a Sales Dashboard Using Power BI
-    - Machine Learning for Kyphosis Disease Classification
-    - Manipulating Data with SQL
+    Analyzing and Visualizing Data in Looker | Google Cloud Training | [Link]() 
+    Analyze Survey Data with Tableau | Coursera | [Link]() 
+    COVID-19 Data Analysis Using Python | Coursera | [Link]()
+    Create a Sales Dashboard Using Power BI | Coursera | [Link]()
+    Machine Learning for Kyphosis Disease Classification | Coursera | [Link]()
+    Manipulating Data with SQL | Coursera | [Link]()
 
 - Curriculum Vitae
