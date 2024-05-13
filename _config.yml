@@ -6,7 +6,7 @@ theme: minima
 header_pages:
   - writing.md
   - data.md
-  - about.md
+  - contact.md
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
