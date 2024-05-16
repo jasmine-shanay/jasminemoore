@@ -1,11 +1,12 @@
-Hi! My name is Jasmine Moore. I am a freelance medical writer with 10+ years of experience in scientific research, coding, and data visualization techniques. Here are a few of my accomplishments:
+
+## Hi! My name is Jasmine Moore. 
+
+I am a freelance medical writer with 10+ years of experience in scientific research, coding, and data visualization techniques. Here are a few of my accomplishments:
 
 - Earned a data science fellowship—an award given to 6% of applicants.
 - Received the honors designation for excellence in completing assignments.
 - Used bioinformatic tools to analyze gene and biological pathways on 670 unique host-virus interactions.
 - Awarded professional development grant to fund medical writing training.
-
-Click on the links below to access my writing and data portfolios.
 
 ***
 
@@ -24,6 +25,7 @@ Click on the links below to access my writing and data portfolios.
 
 ***
 
-- [Curriculum Vitae](https://profile.indeed.com/p/jasminem-zrzggdb)
-- [Certificates and Acquired Skills](https://jasmine-shanay.github.io/jasminemoore/certificates/)
+- Professional History and Skills
+  - [Curriculum Vitae](https://profile.indeed.com/p/jasminem-zrzggdb)
+  - [Certificates and Acquired Skills](https://jasmine-shanay.github.io/jasminemoore/certificates/)
 
