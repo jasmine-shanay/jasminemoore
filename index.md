@@ -1,16 +1,16 @@
 
 ## Hi! My name is Jasmine Moore. 
+### Welcome to my virtual portfolio.
 
 I am a freelance medical writer with 10+ years of experience in scientific research, coding, and data visualization techniques. Here are a few of my accomplishments:
-
 - Earned a data science fellowship—an award given to 6% of applicants.
 - Received the honors designation for excellence in completing assignments.
-- Used bioinformatic tools to analyze gene and biological pathways on 670 unique host-virus interactions.
+- Used bioinformatic tools to analyze the gene ontology and biological pathways of 670 unique host-virus interactions.
 - Awarded professional development grant to fund medical writing training.
 
 ***
 
-## Portfolio Links
+## Portfolio Contents
 
 - [Writing Samples](https://jasmine-shanay.github.io/jasminemoore/writing/)
   - Recent Pieces
