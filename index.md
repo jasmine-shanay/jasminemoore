@@ -12,10 +12,9 @@ Click on the links below to access my writing and data portfolios.
 ## Portfolio Links
 
 - [Writing Samples](https://jasmine-shanay.github.io/jasminemoore/writing/)
-  - Current Work
+  - Recent Pieces
   - Abstracts and Proposals
-  - Relevant Certificates
-  - Old Work
+  - University Articles (Old)
 
 ***
 
