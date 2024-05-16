@@ -1,5 +1,4 @@
-
-# Hi! My name is Jasmine Moore. 
+Hi! My name is Jasmine Moore. 
 ## Welcome to my virtual portfolio.
 
 I am a freelance medical writer with 10+ years of experience in scientific research, coding, and data visualization techniques. Here are a few of my accomplishments:
